@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm a Machine Learning engineer
+I'm a Data Science and Machine Learning engineer 
+
 
 <!--
 **Somayahamdy/Somayahamdy** I'm a Machine Learning engineer  ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
