@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Data Science and Machine Learning engineer 
+I'm a Data Science and Machine Learning Engineer 
 
 
 <!--
